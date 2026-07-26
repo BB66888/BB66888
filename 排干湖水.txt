@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mazihao62-beep/Drain-the-Lake-script/refs/heads/main/script.lua"))()
