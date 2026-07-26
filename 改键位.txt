@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zombi584/AXIN-Mapper/50cd71317c163241e8fdcdc7c2a1c11ef0627b5c/AXIN.CC"))()
