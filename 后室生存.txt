@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://github.com/mryitang-sys/GE-Hub/releases/download/nsjxjxhs/GE-metacele.lua"))()
+----不要复制本段     自动攻击功能无法使用
