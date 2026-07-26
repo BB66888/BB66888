@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chinzhuoxuan3-byte/Ys-Hub/refs/heads/main/Wifi"))()
