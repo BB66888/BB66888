@@ -1,0 +1,1 @@
+getgenv().Leng="冷脚本QQ群815883059" loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/lenglenglenglenglenglenglenglenglenglenglenglengscript-cold-LBT-H/refs/heads/main/LENG%20script%20%20cold%20LBT-H.txt"))()
