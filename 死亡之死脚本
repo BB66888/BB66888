@@ -1,0 +1,5 @@
+脚本
+script_key="此处输入卡密"; (loadstring or load)(game:HttpGet("https://getnative.cc/script/loader"))()
+
+获取密钥链接
+https://ads.luarmor.net/get_key?for=Native_Linkvertise-OlHmNGrpKcxc
