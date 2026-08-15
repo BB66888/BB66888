@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NUIke1/Sentinel/refs/heads/main/%E5%93%A8%E5%85%B5-%E6%81%B6%E9%AD%94%E5%AD%A6.lua"))()
+--Sentinel提醒您如果脚本购买而来是被⭕了，脚本为公益感谢您的使用，代码可以选择复制全部也可以只复制脚本
+--哨兵脚本交流群1034603242
